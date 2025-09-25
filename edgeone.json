@@ -1,0 +1,8 @@
+{
+  "name": "edgeone-proxy",
+  "outputDirectory": "./static",
+  "nodeVersion": "18.20.4",
+  "headers": [],
+  "redirects": [],
+  "rewrites": []
+}
